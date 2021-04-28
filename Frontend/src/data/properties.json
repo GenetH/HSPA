@@ -1,3 +1,4 @@
+
 [{
     "Id":1,
     "Name":"Peral WHite House",
@@ -34,7 +35,7 @@
   },
   {
     "Id":6,
-    "Name":"  TG House",
+    "Name":"TG House",
     "Type":"House",
     "Price":14000
 
