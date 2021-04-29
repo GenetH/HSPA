@@ -1,40 +1,51 @@
 
 [{
     "Id":1,
+    "SellRent": 1,
     "Name":"Peral WHite House",
     "Type":"House",
-    "Price":12000
+    "Price":12000,
+    "Image":"img1"
 
   },
   {
     "Id":2,
+    "SellRent": 2,
     "Name":"Yade Vila House",
     "Type":"House",
-    "Price":12500
+    "Price":12500,
+    "Image":"img2"
 
   },
   {
     "Id":3,
+    "SellRent": 1,
     "Name":"Ela House",
     "Type":"House",
-    "Price":12800
+    "Price":12800,
+    "Image":"img3" 
 
   },
   {
     "Id":4,
+    "SellRent": 2,
     "Name":"Razino House",
     "Type":"House",
-    "Price":13000
+    "Price":13000,
+    "Image":"img4"
 
   },{
     "Id":5,
+    "SellRent": 1,
     "Name":"Mule House",
     "Type":"House",
-    "Price":14000
+    "Price":14000,
+    "Image":"img5"
 
   },
   {
     "Id":6,
+    "SellRent": 1,
     "Name":"TG House",
     "Type":"House",
     "Price":14000
